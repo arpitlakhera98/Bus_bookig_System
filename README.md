@@ -33,4 +33,4 @@ A robust and feature-rich console-based Bus Booking System developed in Java. It
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AapkaUsername/Bus-Booking-System.git](https://github.com/AapkaUsername/Bus-Booking-System.git)
+   git clone [https://github.com/arpitlakhera98/Bus-Booking-System.git](https://github.com/arpitlakhera98/Bus-Booking-System.git)
